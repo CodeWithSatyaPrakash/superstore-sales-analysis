@@ -1,5 +1,7 @@
 # superstore-sales-analysis
 # 📊 Superstore Sales Analysis – Power BI + PostgreSQL
+ ![superstore_Salesdata img](https://github.com/user-attachments/assets/c1470096-4522-475e-bd9e-38c1b3d327f4)
+
 
 End-to-end BI project combining **PostgreSQL** for data extraction and transformation, and **Power BI** for dynamic dashboards.
 
@@ -37,4 +39,3 @@ End-to-end BI project combining **PostgreSQL** for data extraction and transform
 1. Run SQL scripts to prepare data in PostgreSQL  
 2. Open `.pbix` file in Power BI Desktop  
 3. Connect to your DB or use imported data to explore insights
-4. ![superstore_Salesdata img](https://github.com/user-attachments/assets/c1470096-4522-475e-bd9e-38c1b3d327f4)
